@@ -1,0 +1,28 @@
+.topBar{
+    margin:5px;
+}
+
+.boxTop{
+    width:365px;
+    height:100px;
+    margin:2px;
+    background-color: green;
+    /*float: left; */
+    display: inline-block;
+}
+
+.centerDiv{
+width:100%;
+height: 300px;
+background-color:green;
+margin:2px;
+
+}
+
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    margin: 5px;
+
+}
